@@ -1,0 +1,2 @@
+def factor(N):
+    pass
