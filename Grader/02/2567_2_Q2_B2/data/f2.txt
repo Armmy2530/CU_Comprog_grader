@@ -1,2 +1,0 @@
-aaa bbbb cc ddd
-ddd cc bbbb aaa
